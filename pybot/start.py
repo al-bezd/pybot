@@ -4,7 +4,7 @@ from telegram.ext import InlineQueryHandler
 from pybot.trans import translate
 from telegram import InlineQueryResultArticle, InputTextMessageContent
 
-TOKEN = '1356600163:AAFOxbTrin5ecUqwrbRTiZXyClj_2LxSOyo'
+TOKEN = 'TOKEN'
 updater = Updater(token=TOKEN, use_context=True)
 dispatcher = updater.dispatcher
 
